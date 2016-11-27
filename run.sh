@@ -1,3 +1,3 @@
 #!/bin/bash
 set -xe
-exec sudo docker run --rm -ti dhagberg/co811-java6
+exec docker run --rm -ti dhagberg/co811-java6
